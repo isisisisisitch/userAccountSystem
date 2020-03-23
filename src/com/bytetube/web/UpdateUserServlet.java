@@ -14,8 +14,8 @@ import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.util.Map;
 
-@WebServlet("/addUserServlet")
-public class AddUserServlet extends HttpServlet {
+@WebServlet("/updateUserServlet")
+public class UpdateUserServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         //1.获取参数
         Map<String, String[]> map = request.getParameterMap();
@@ -30,15 +30,10 @@ public class AddUserServlet extends HttpServlet {
         }
         //3.将数据传递到后端
         UserService service = new UserServiceImpl();
-        service.addUser(user);
+        service.updateUser(user);
 
         //4.跳转到findUserByPageServlet
         response.sendRedirect(request.getContextPath()+"/findUserByPageServlet");
-
-
-
-
-
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

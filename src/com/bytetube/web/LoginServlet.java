@@ -62,7 +62,7 @@ public class LoginServlet extends HttpServlet {
             if (loginUser != null) {
                 //登录成功
                 session.setAttribute("user",loginUser);
-                response.sendRedirect(request.getContextPath()+"/index.jsp");
+                response.sendRedirect(request.getContextPath()+"/findUserByPageServlet");
             }else {
                 //登录失败
                 request.setAttribute("login_msg","username or password is wrong");

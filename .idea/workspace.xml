@@ -6,7 +6,40 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="600fc36d-ed4c-4495-9a2e-0f2b9018fbed" name="Default Changelist" comment="" />
+    <list default="true" id="600fc36d-ed4c-4495-9a2e-0f2b9018fbed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/bytetube/web/DelSelectedUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bytetube/web/UpdateUserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/WEB-INF/classes/com/bytetube/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/WEB-INF/classes/com/bytetube/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/WEB-INF/classes/com/bytetube/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/WEB-INF/classes/com/bytetube/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/WEB-INF/classes/com/bytetube/util/JDBCUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/WEB-INF/classes/com/bytetube/util/JDBCUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/WEB-INF/classes/com/bytetube/web/AddUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/WEB-INF/classes/com/bytetube/web/AddUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/WEB-INF/classes/com/bytetube/web/DelUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/WEB-INF/classes/com/bytetube/web/DelUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/WEB-INF/classes/com/bytetube/web/FindUserByPageServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/WEB-INF/classes/com/bytetube/web/FindUserByPageServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/WEB-INF/classes/com/bytetube/web/FindUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/WEB-INF/classes/com/bytetube/web/FindUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/WEB-INF/classes/com/bytetube/web/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/WEB-INF/classes/com/bytetube/web/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/update.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/userAccountSystem_war_exploded/update.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/userAccountSystem/com/bytetube/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/userAccountSystem/com/bytetube/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/userAccountSystem/com/bytetube/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/userAccountSystem/com/bytetube/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/userAccountSystem/com/bytetube/util/JDBCUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/userAccountSystem/com/bytetube/util/JDBCUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/userAccountSystem/com/bytetube/web/AddUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/userAccountSystem/com/bytetube/web/AddUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/userAccountSystem/com/bytetube/web/DelUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/userAccountSystem/com/bytetube/web/DelUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/userAccountSystem/com/bytetube/web/FindUserByPageServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/userAccountSystem/com/bytetube/web/FindUserByPageServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/userAccountSystem/com/bytetube/web/FindUserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/userAccountSystem/com/bytetube/web/FindUserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/userAccountSystem/com/bytetube/web/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/userAccountSystem/com/bytetube/web/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bytetube/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytetube/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bytetube/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytetube/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bytetube/util/JDBCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytetube/util/JDBCUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bytetube/web/AddUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytetube/web/AddUserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bytetube/web/DelUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytetube/web/DelUserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bytetube/web/FindUserByPageServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytetube/web/FindUserByPageServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bytetube/web/FindUserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytetube/web/FindUserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bytetube/web/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bytetube/web/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/login.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +53,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -28,6 +64,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1ZBmGg852iCBCYuxpitSWJzRCvk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -102,22 +139,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserDaoTest.testFindUserByUsernameAndPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="userAccountSystem" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.bytetube.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.bytetube.test" />
-      <option name="MAIN_CLASS_NAME" value="com.bytetube.test.UserDaoTest" />
-      <option name="METHOD_NAME" value="testFindUserByUsernameAndPassword" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UserDaoTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="userAccountSystem" />
       <extension name="coverage">
@@ -134,7 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="index.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/userAccountSystem/index.jsp">
+      <method v="2" />
+    </configuration>
     <configuration name="Tomcat 8.5.51" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.51" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
         <artifact name="userAccountSystem:war exploded">
           <settings>
@@ -206,20 +232,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.UserDaoTest.testFindUserByUsernameAndPassword" />
       <item itemvalue="JUnit.UserDaoTest.testAdd" />
-      <item itemvalue="Tomcat Server.Tomcat 8.5.51" />
       <item itemvalue="JUnit.UserDaoTest.testDel" />
       <item itemvalue="JUnit.UserDaoTest.testFindUserById" />
       <item itemvalue="JUnit.UserDaoTest.testUpdate" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.51" />
+      <item itemvalue="JavaScript Debug.index.jsp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.jsp" />
         <item itemvalue="JUnit.UserDaoTest.testUpdate" />
         <item itemvalue="JUnit.UserDaoTest.testFindUserById" />
         <item itemvalue="JUnit.UserDaoTest.testDel" />
         <item itemvalue="JUnit.UserDaoTest.testAdd" />
-        <item itemvalue="JUnit.UserDaoTest.testFindUserByUsernameAndPassword" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +285,8 @@
       <workItem from="1584320773663" duration="4736000" />
       <workItem from="1584400519869" duration="461000" />
       <workItem from="1584459377847" duration="1704000" />
-      <workItem from="1584487800962" duration="10903000" />
+      <workItem from="1584487800962" duration="11302000" />
+      <workItem from="1584894951287" duration="8536000" />
     </task>
     <servers />
   </component>
@@ -267,108 +294,135 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="205" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584320835712">
-      <screen x="38" y="23" width="1402" height="877" />
+    <state x="204" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584918622198">
+      <screen x="37" y="23" width="1403" height="877" />
     </state>
+    <state x="204" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/3360.-11.1920.1057/37.23.1403.877/1440.23.1920.1057@37.23.1403.877" timestamp="1584918622198" />
     <state x="205" y="123" key="#com.intellij.execution.impl.EditConfigurationsDialog/3360.-11.1920.1057/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1584320835712" />
-    <state x="556" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1584498731568">
-      <screen x="43" y="23" width="1397" height="877" />
+    <state x="552" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1584923174547">
+      <screen x="37" y="23" width="1403" height="877" />
     </state>
+    <state x="552" y="184" key="#com.intellij.ide.util.MemberChooser/3360.-11.1920.1057/37.23.1403.877/1440.23.1920.1057@37.23.1403.877" timestamp="1584923174547" />
     <state x="553" y="184" key="#com.intellij.ide.util.MemberChooser/3360.-11.1920.1057/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1584321549752" />
     <state x="554" y="184" key="#com.intellij.ide.util.MemberChooser/3360.-11.1920.1057/40.23.1400.877/1440.23.1920.1057@40.23.1400.877" timestamp="1584323627014" />
     <state x="555" y="184" key="#com.intellij.ide.util.MemberChooser/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584496598703" />
     <state x="556" y="184" key="#com.intellij.ide.util.MemberChooser/3360.-11.1920.1057/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1584498731568" />
-    <state width="1099" height="229" key="GridCell.Tab.0.bottom" timestamp="1584501931352">
-      <screen x="39" y="23" width="1401" height="877" />
+    <state width="1099" height="264" key="GridCell.Tab.0.bottom" timestamp="1584925158274">
+      <screen x="37" y="23" width="1403" height="877" />
     </state>
+    <state width="1099" height="264" key="GridCell.Tab.0.bottom/3360.-11.1920.1057/37.23.1403.877/1440.23.1920.1057@37.23.1403.877" timestamp="1584925158274" />
+    <state width="1099" height="149" key="GridCell.Tab.0.bottom/3360.-11.1920.1057/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1584925114752" />
     <state width="1099" height="229" key="GridCell.Tab.0.bottom/3360.-11.1920.1057/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1584501931352" />
     <state width="1099" height="229" key="GridCell.Tab.0.bottom/3360.-11.1920.1057/40.23.1400.877/1440.23.1920.1057@40.23.1400.877" timestamp="1584496203965" />
-    <state width="1099" height="229" key="GridCell.Tab.0.bottom/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584496367855" />
+    <state width="1099" height="229" key="GridCell.Tab.0.bottom/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584553290347" />
     <state width="929" height="229" key="GridCell.Tab.0.bottom/3360.-11.1920.1057/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1584493625468" />
-    <state width="1099" height="229" key="GridCell.Tab.0.center" timestamp="1584501931351">
-      <screen x="39" y="23" width="1401" height="877" />
+    <state width="1099" height="264" key="GridCell.Tab.0.center" timestamp="1584925158272">
+      <screen x="37" y="23" width="1403" height="877" />
     </state>
+    <state width="1099" height="264" key="GridCell.Tab.0.center/3360.-11.1920.1057/37.23.1403.877/1440.23.1920.1057@37.23.1403.877" timestamp="1584925158272" />
+    <state width="1099" height="149" key="GridCell.Tab.0.center/3360.-11.1920.1057/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1584925114749" />
     <state width="1099" height="229" key="GridCell.Tab.0.center/3360.-11.1920.1057/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1584501931351" />
     <state width="1099" height="229" key="GridCell.Tab.0.center/3360.-11.1920.1057/40.23.1400.877/1440.23.1920.1057@40.23.1400.877" timestamp="1584496203963" />
-    <state width="1099" height="229" key="GridCell.Tab.0.center/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584496367855" />
+    <state width="1099" height="229" key="GridCell.Tab.0.center/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584553290346" />
     <state width="929" height="229" key="GridCell.Tab.0.center/3360.-11.1920.1057/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1584493625465" />
-    <state width="1099" height="229" key="GridCell.Tab.0.left" timestamp="1584501931350">
-      <screen x="39" y="23" width="1401" height="877" />
+    <state width="1099" height="264" key="GridCell.Tab.0.left" timestamp="1584925158265">
+      <screen x="37" y="23" width="1403" height="877" />
     </state>
+    <state width="1099" height="264" key="GridCell.Tab.0.left/3360.-11.1920.1057/37.23.1403.877/1440.23.1920.1057@37.23.1403.877" timestamp="1584925158265" />
+    <state width="1099" height="149" key="GridCell.Tab.0.left/3360.-11.1920.1057/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1584925114749" />
     <state width="1099" height="229" key="GridCell.Tab.0.left/3360.-11.1920.1057/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1584501931350" />
     <state width="1099" height="229" key="GridCell.Tab.0.left/3360.-11.1920.1057/40.23.1400.877/1440.23.1920.1057@40.23.1400.877" timestamp="1584496203962" />
-    <state width="1099" height="229" key="GridCell.Tab.0.left/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584496367854" />
+    <state width="1099" height="229" key="GridCell.Tab.0.left/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584553290345" />
     <state width="929" height="229" key="GridCell.Tab.0.left/3360.-11.1920.1057/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1584493625465" />
-    <state width="1099" height="229" key="GridCell.Tab.0.right" timestamp="1584501931351">
-      <screen x="39" y="23" width="1401" height="877" />
+    <state width="1099" height="264" key="GridCell.Tab.0.right" timestamp="1584925158273">
+      <screen x="37" y="23" width="1403" height="877" />
     </state>
+    <state width="1099" height="264" key="GridCell.Tab.0.right/3360.-11.1920.1057/37.23.1403.877/1440.23.1920.1057@37.23.1403.877" timestamp="1584925158273" />
+    <state width="1099" height="149" key="GridCell.Tab.0.right/3360.-11.1920.1057/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1584925114751" />
     <state width="1099" height="229" key="GridCell.Tab.0.right/3360.-11.1920.1057/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1584501931351" />
     <state width="1099" height="229" key="GridCell.Tab.0.right/3360.-11.1920.1057/40.23.1400.877/1440.23.1920.1057@40.23.1400.877" timestamp="1584496203964" />
-    <state width="1099" height="229" key="GridCell.Tab.0.right/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584496367855" />
+    <state width="1099" height="229" key="GridCell.Tab.0.right/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584553290346" />
     <state width="929" height="229" key="GridCell.Tab.0.right/3360.-11.1920.1057/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1584493625467" />
-    <state width="1099" height="229" key="GridCell.Tab.1.bottom" timestamp="1584501931356">
-      <screen x="39" y="23" width="1401" height="877" />
+    <state width="1099" height="264" key="GridCell.Tab.1.bottom" timestamp="1584925158277">
+      <screen x="37" y="23" width="1403" height="877" />
     </state>
+    <state width="1099" height="264" key="GridCell.Tab.1.bottom/3360.-11.1920.1057/37.23.1403.877/1440.23.1920.1057@37.23.1403.877" timestamp="1584925158277" />
+    <state width="1099" height="149" key="GridCell.Tab.1.bottom/3360.-11.1920.1057/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1584925114411" />
     <state width="1099" height="229" key="GridCell.Tab.1.bottom/3360.-11.1920.1057/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1584501931356" />
     <state width="1099" height="229" key="GridCell.Tab.1.bottom/3360.-11.1920.1057/40.23.1400.877/1440.23.1920.1057@40.23.1400.877" timestamp="1584496203977" />
-    <state width="1099" height="229" key="GridCell.Tab.1.bottom/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584496367866" />
+    <state width="1099" height="229" key="GridCell.Tab.1.bottom/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584553290349" />
     <state width="929" height="229" key="GridCell.Tab.1.bottom/3360.-11.1920.1057/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1584493625479" />
-    <state width="1099" height="229" key="GridCell.Tab.1.center" timestamp="1584501931356">
-      <screen x="39" y="23" width="1401" height="877" />
+    <state width="1099" height="264" key="GridCell.Tab.1.center" timestamp="1584925158275">
+      <screen x="37" y="23" width="1403" height="877" />
     </state>
+    <state width="1099" height="264" key="GridCell.Tab.1.center/3360.-11.1920.1057/37.23.1403.877/1440.23.1920.1057@37.23.1403.877" timestamp="1584925158275" />
+    <state width="1099" height="149" key="GridCell.Tab.1.center/3360.-11.1920.1057/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1584925114409" />
     <state width="1099" height="229" key="GridCell.Tab.1.center/3360.-11.1920.1057/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1584501931356" />
     <state width="1099" height="229" key="GridCell.Tab.1.center/3360.-11.1920.1057/40.23.1400.877/1440.23.1920.1057@40.23.1400.877" timestamp="1584496203975" />
-    <state width="1099" height="229" key="GridCell.Tab.1.center/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584496367861" />
+    <state width="1099" height="229" key="GridCell.Tab.1.center/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584553290349" />
     <state width="929" height="229" key="GridCell.Tab.1.center/3360.-11.1920.1057/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1584493625475" />
-    <state width="1099" height="229" key="GridCell.Tab.1.left" timestamp="1584501931355">
-      <screen x="39" y="23" width="1401" height="877" />
+    <state width="1099" height="264" key="GridCell.Tab.1.left" timestamp="1584925158275">
+      <screen x="37" y="23" width="1403" height="877" />
     </state>
+    <state width="1099" height="264" key="GridCell.Tab.1.left/3360.-11.1920.1057/37.23.1403.877/1440.23.1920.1057@37.23.1403.877" timestamp="1584925158275" />
+    <state width="1099" height="149" key="GridCell.Tab.1.left/3360.-11.1920.1057/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1584925114409" />
     <state width="1099" height="229" key="GridCell.Tab.1.left/3360.-11.1920.1057/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1584501931355" />
     <state width="1099" height="229" key="GridCell.Tab.1.left/3360.-11.1920.1057/40.23.1400.877/1440.23.1920.1057@40.23.1400.877" timestamp="1584496203975" />
-    <state width="1099" height="229" key="GridCell.Tab.1.left/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584496367858" />
+    <state width="1099" height="229" key="GridCell.Tab.1.left/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584553290348" />
     <state width="929" height="229" key="GridCell.Tab.1.left/3360.-11.1920.1057/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1584493625474" />
-    <state width="1099" height="229" key="GridCell.Tab.1.right" timestamp="1584501931356">
-      <screen x="39" y="23" width="1401" height="877" />
+    <state width="1099" height="264" key="GridCell.Tab.1.right" timestamp="1584925158276">
+      <screen x="37" y="23" width="1403" height="877" />
     </state>
+    <state width="1099" height="264" key="GridCell.Tab.1.right/3360.-11.1920.1057/37.23.1403.877/1440.23.1920.1057@37.23.1403.877" timestamp="1584925158276" />
+    <state width="1099" height="149" key="GridCell.Tab.1.right/3360.-11.1920.1057/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1584925114410" />
     <state width="1099" height="229" key="GridCell.Tab.1.right/3360.-11.1920.1057/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1584501931356" />
     <state width="1099" height="229" key="GridCell.Tab.1.right/3360.-11.1920.1057/40.23.1400.877/1440.23.1920.1057@40.23.1400.877" timestamp="1584496203976" />
-    <state width="1099" height="229" key="GridCell.Tab.1.right/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584496367864" />
+    <state width="1099" height="229" key="GridCell.Tab.1.right/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584553290349" />
     <state width="929" height="229" key="GridCell.Tab.1.right/3360.-11.1920.1057/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1584493625478" />
-    <state width="1099" height="229" key="GridCell.Tab.2.bottom" timestamp="1584501931354">
-      <screen x="39" y="23" width="1401" height="877" />
+    <state width="1099" height="264" key="GridCell.Tab.2.bottom" timestamp="1584925158281">
+      <screen x="37" y="23" width="1403" height="877" />
     </state>
+    <state width="1099" height="264" key="GridCell.Tab.2.bottom/3360.-11.1920.1057/37.23.1403.877/1440.23.1920.1057@37.23.1403.877" timestamp="1584925158281" />
+    <state width="1099" height="149" key="GridCell.Tab.2.bottom/3360.-11.1920.1057/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1584925114414" />
     <state width="1099" height="229" key="GridCell.Tab.2.bottom/3360.-11.1920.1057/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1584501931354" />
     <state width="1099" height="229" key="GridCell.Tab.2.bottom/3360.-11.1920.1057/40.23.1400.877/1440.23.1920.1057@40.23.1400.877" timestamp="1584496203974" />
-    <state width="1099" height="229" key="GridCell.Tab.2.bottom/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584496367857" />
+    <state width="1099" height="229" key="GridCell.Tab.2.bottom/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584553290348" />
     <state width="929" height="229" key="GridCell.Tab.2.bottom/3360.-11.1920.1057/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1584493625473" />
-    <state width="1099" height="229" key="GridCell.Tab.2.center" timestamp="1584501931353">
-      <screen x="39" y="23" width="1401" height="877" />
+    <state width="1099" height="264" key="GridCell.Tab.2.center" timestamp="1584925158278">
+      <screen x="37" y="23" width="1403" height="877" />
     </state>
+    <state width="1099" height="264" key="GridCell.Tab.2.center/3360.-11.1920.1057/37.23.1403.877/1440.23.1920.1057@37.23.1403.877" timestamp="1584925158278" />
+    <state width="1099" height="149" key="GridCell.Tab.2.center/3360.-11.1920.1057/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1584925114412" />
     <state width="1099" height="229" key="GridCell.Tab.2.center/3360.-11.1920.1057/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1584501931353" />
     <state width="1099" height="229" key="GridCell.Tab.2.center/3360.-11.1920.1057/40.23.1400.877/1440.23.1920.1057@40.23.1400.877" timestamp="1584496203970" />
-    <state width="1099" height="229" key="GridCell.Tab.2.center/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584496367856" />
+    <state width="1099" height="229" key="GridCell.Tab.2.center/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584553290347" />
     <state width="929" height="229" key="GridCell.Tab.2.center/3360.-11.1920.1057/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1584493625470" />
-    <state width="1099" height="229" key="GridCell.Tab.2.left" timestamp="1584501931353">
-      <screen x="39" y="23" width="1401" height="877" />
+    <state width="1099" height="264" key="GridCell.Tab.2.left" timestamp="1584925158277">
+      <screen x="37" y="23" width="1403" height="877" />
     </state>
+    <state width="1099" height="264" key="GridCell.Tab.2.left/3360.-11.1920.1057/37.23.1403.877/1440.23.1920.1057@37.23.1403.877" timestamp="1584925158277" />
+    <state width="1099" height="149" key="GridCell.Tab.2.left/3360.-11.1920.1057/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1584925114412" />
     <state width="1099" height="229" key="GridCell.Tab.2.left/3360.-11.1920.1057/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1584501931353" />
     <state width="1099" height="229" key="GridCell.Tab.2.left/3360.-11.1920.1057/40.23.1400.877/1440.23.1920.1057@40.23.1400.877" timestamp="1584496203967" />
-    <state width="1099" height="229" key="GridCell.Tab.2.left/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584496367856" />
+    <state width="1099" height="229" key="GridCell.Tab.2.left/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584553290347" />
     <state width="929" height="229" key="GridCell.Tab.2.left/3360.-11.1920.1057/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1584493625469" />
-    <state width="1099" height="229" key="GridCell.Tab.2.right" timestamp="1584501931354">
-      <screen x="39" y="23" width="1401" height="877" />
+    <state width="1099" height="264" key="GridCell.Tab.2.right" timestamp="1584925158280">
+      <screen x="37" y="23" width="1403" height="877" />
     </state>
+    <state width="1099" height="264" key="GridCell.Tab.2.right/3360.-11.1920.1057/37.23.1403.877/1440.23.1920.1057@37.23.1403.877" timestamp="1584925158280" />
+    <state width="1099" height="149" key="GridCell.Tab.2.right/3360.-11.1920.1057/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1584925114413" />
     <state width="1099" height="229" key="GridCell.Tab.2.right/3360.-11.1920.1057/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1584501931354" />
     <state width="1099" height="229" key="GridCell.Tab.2.right/3360.-11.1920.1057/40.23.1400.877/1440.23.1920.1057@40.23.1400.877" timestamp="1584496203972" />
-    <state width="1099" height="229" key="GridCell.Tab.2.right/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584496367856" />
+    <state width="1099" height="229" key="GridCell.Tab.2.right/3360.-11.1920.1057/41.23.1399.877/1440.23.1920.1057@41.23.1399.877" timestamp="1584553290348" />
     <state width="929" height="229" key="GridCell.Tab.2.right/3360.-11.1920.1057/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1584493625472" />
     <state x="444" y="362" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584322600561">
       <screen x="39" y="23" width="1401" height="877" />
     </state>
     <state x="444" y="362" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/3360.-11.1920.1057/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1584322600561" />
-    <state x="326" y="186" width="835" height="550" key="find.popup" timestamp="1584492435391">
-      <screen x="43" y="23" width="1397" height="877" />
+    <state x="321" y="186" width="839" height="550" key="find.popup" timestamp="1584924533535">
+      <screen x="37" y="23" width="1403" height="877" />
     </state>
+    <state x="321" y="186" width="839" height="550" key="find.popup/3360.-11.1920.1057/37.23.1403.877/1440.23.1920.1057@37.23.1403.877" timestamp="1584924533535" />
     <state x="322" y="186" width="837" height="550" key="find.popup/3360.-11.1920.1057/38.23.1402.877/1440.23.1920.1057@38.23.1402.877" timestamp="1584321048033" />
     <state x="323" y="186" width="837" height="550" key="find.popup/3360.-11.1920.1057/39.23.1401.877/1440.23.1920.1057@39.23.1401.877" timestamp="1584321461446" />
     <state x="326" y="186" width="835" height="550" key="find.popup/3360.-11.1920.1057/43.23.1397.877/1440.23.1920.1057@43.23.1397.877" timestamp="1584492435391" />

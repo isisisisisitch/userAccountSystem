@@ -1,5 +1,9 @@
 package com.bytetube.web;
 
+import com.bytetube.domain.User;
+import com.bytetube.service.UserService;
+import com.bytetube.service.impl.UserServiceImpl;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -10,7 +14,13 @@ import java.io.IOException;
 @WebServlet("/findUserServlet")
 public class FindUserServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        String idString = request.getParameter("id");
+        int id = Integer.parseInt(idString);
+        UserService service = new UserServiceImpl();
+        User user = service.findUserById(id);
 
+        request.setAttribute("user",user);
+        request.getRequestDispatcher("/update.jsp").forward(request,response);
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

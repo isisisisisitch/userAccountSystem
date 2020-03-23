@@ -1,7 +1,6 @@
 package com.bytetube.util;
 
 import com.alibaba.druid.pool.DruidDataSourceFactory;
-
 import javax.sql.DataSource;
 import java.io.IOException;
 import java.io.InputStream;
@@ -13,7 +12,6 @@ import java.util.Properties;
  * JDBC工具类 使用Durid连接池
  */
 public class JDBCUtils {
-
     private static DataSource ds ;
 
     static {

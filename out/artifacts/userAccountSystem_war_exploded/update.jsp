@@ -24,7 +24,7 @@
 
           <div class="form-group">
             <label for="name">name：</label>
-            <input type="text" class="form-control" id="name" name="name"  value="${user.name}" readonly="readonly" placeholder="请输入姓名" />
+            <input type="text" class="form-control" id="name" name="name"  value="${user.name}" readonly="readonly" placeholder="plz input your name" />
           </div>
 
           <div class="form-group">

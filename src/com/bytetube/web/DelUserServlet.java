@@ -1,5 +1,8 @@
 package com.bytetube.web;
 
+import com.bytetube.service.UserService;
+import com.bytetube.service.impl.UserServiceImpl;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -10,7 +13,12 @@ import java.io.IOException;
 @WebServlet("/delUserServlet")
 public class DelUserServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+        String idString = request.getParameter("id");
+        int id = Integer.parseInt(idString);
+        UserService service = new UserServiceImpl();
+        service.deleteUser(id);
 
+        response.sendRedirect(request.getContextPath()+"/findUserByPageServlet");
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

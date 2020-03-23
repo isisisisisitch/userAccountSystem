@@ -21,4 +21,6 @@ public interface UserService {
 
 
     public PageBean<User> findUserByPage(String start, String rows, Map<String, String[]> condition);
+
+    public void delSelectedUser(String[] ids);
 }
